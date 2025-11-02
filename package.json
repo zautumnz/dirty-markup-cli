@@ -3,9 +3,7 @@
   "description": "A small CLI for the DirtyMarkup.com API.",
   "version": "1.0.2",
   "author": {
-    "name": "Zac Anger",
-    "email": "zac@zacanger.com",
-    "url": "http://zacanger.com"
+    "name": "Autumn Z"
   },
   "license": "MIT",
   "main": "index.js",
@@ -17,12 +15,12 @@
   "scripts": {
     "test": "echo 'no, sorry'"
   },
-  "homepage": "https://github.com/zacanger/dirty-markup-cli#readme",
+  "homepage": "https://github.com/zautumnz/dirty-markup-cli#readme",
   "repository": {
     "type": "git",
-    "url": "https://github.com/zacanger/dirty-markup-cli.git"
+    "url": "https://github.com/zautumnz/dirty-markup-cli.git"
   },
-  "bugs": "https://github.com/zacanger/dirty-markup-cli/issues",
+  "bugs": "https://github.com/zautumnz/dirty-markup-cli/issues",
   "keywords": [
     "cli",
     "css",
